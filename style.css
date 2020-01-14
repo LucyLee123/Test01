@@ -1,0 +1,35 @@
+.bg-black {
+  background-color: #2d433c;
+}
+
+.synopsis-text{
+  font-size: 1.3rem;
+  line-height: 1.2;
+}
+
+#synopsis {
+  padding-top: 3rem;
+  background-color:  #2d433c;
+}
+
+#slide {
+  background-color:  #2d433c;
+}
+
+#pink{
+  color:  #ff788c;
+}
+
+body{
+  background-color: #2d433c;
+  font-family: 'Do Hyeon', sans-serif;
+}
+
+#foot{
+  color: #013220;
+  background-color: #eaeaea;
+  text-align: center;
+  margin-top: 5rem;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}
